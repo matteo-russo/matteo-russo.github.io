@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Matteo Russo"
+#  name   : "Matteo Russo"
   avatar : "/assets/images/UTC_square.jpg"
-  bio    : "Research Fellow in Robotics"
+#  bio    : "Research Fellow in Robotics"
   links:
     - label: "Contact"
       icon: "fas fa-envelope"
