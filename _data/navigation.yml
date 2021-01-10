@@ -1,9 +1,23 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Service"
+    url: /service/
+  - title: "Awards"
+    url: /awards/
+  - title: "Publications"
+    url: /publications/
+  - title: "Personal"
+    url: /personal/
+%  - title: "Posts"
+%    url: /posts/
+%  - title: "Categories"
+%    url: /categories/
+%  - title: "Tags"
+%    url: /tags/
+%  - title: "About"
+%    url: /about/
