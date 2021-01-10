@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "About Me"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/UTC_square.jpg"
   bio    : "I'm a Research Fellow in Robotics at the University of Nottingham."
   links:
     - label: "ResearchGate"
