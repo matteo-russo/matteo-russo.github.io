@@ -76,6 +76,10 @@ author:
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-8825-8983"
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
       
 footer:
   links:
@@ -117,8 +121,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+#      share: true
