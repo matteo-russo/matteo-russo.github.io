@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   My personal website.
 twitter_username: _matteorusso
 github_username: matteo-russo
-minimal_mistakes_skin: contrast # default
+minimal_mistakes_skin: default # contrast
 search: true
 
 # Build settings
@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/UTC_square.jpg"
   bio    : "Research Fellow in Robotics"
   links:
+    - label: "Contact"
+      icon: "fas fa-envelope"
+      url: "mailto:matteo.russo@nottingham.ac.uk"
     - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
       url: "https://www.researchgate.net/profile/Matteo_Russo4"
@@ -72,9 +75,7 @@ author:
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-8825-8983"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_matteorusso"
+
       
 footer:
   links:
