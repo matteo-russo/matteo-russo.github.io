@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Matteo Russo"
   avatar : "/assets/images/UTC_square.jpg"
-  bio    : "Research Fellow in Robotics, University of Nottingham."
+  bio    : "Research Fellow in Robotics"
   links:
     - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
