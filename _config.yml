@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "About Me"
+  name   : "Matteo Russo"
   avatar : "/assets/images/UTC_square.jpg"
-  bio    : "I'm a Research Fellow in Robotics at the University of Nottingham."
+  bio    : "Research Fellow in Robotics, University of Nottingham."
   links:
     - label: "ResearchGate"
       icon: "fas fa-fw fa-link"
